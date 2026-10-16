@@ -1,0 +1,16 @@
+total 60
+drwxr-x--- 8 alizeh-anwar alizeh-anwar 4096 Oct 16 03:37 .
+drwxr-xr-x 3 root         root         4096 Sep 17 21:13 ..
+-rw------- 1 alizeh-anwar alizeh-anwar 1065 Oct 10 09:56 .bash_history
+-rw-r--r-- 1 alizeh-anwar alizeh-anwar  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 alizeh-anwar alizeh-anwar 3771 Feb 13  2026 .bashrc
+drwx------ 2 alizeh-anwar alizeh-anwar 4096 Sep 17 21:35 .cache
+-rw-rw-r-- 1 alizeh-anwar alizeh-anwar  189 Oct 16 03:36 .gitconfig
+-rw------- 1 alizeh-anwar alizeh-anwar   20 Oct 10 08:54 .lesshst
+-rw-r--r-- 1 alizeh-anwar alizeh-anwar  807 Feb 13  2026 .profile
+drwx------ 2 alizeh-anwar alizeh-anwar 4096 Oct 16 03:34 .ssh
+drwxrwxr-x 3 alizeh-anwar docker       4096 Oct 10 09:23 Assignment01
+drwxrwxr-x 3 alizeh-anwar alizeh-anwar 4096 Oct  9 18:46 Gitea
+-rw-rw-r-- 1 alizeh-anwar alizeh-anwar   12 Sep 18 05:19 hello.txt
+drwxrwxr-x 5 alizeh-anwar alizeh-anwar 4096 Oct 16 03:37 lab05-linux
+drwxrwxr-x 2 alizeh-anwar alizeh-anwar 4096 Sep 18 05:18 mylab
